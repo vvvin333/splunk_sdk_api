@@ -90,8 +90,7 @@ def saved_searches(service: Service):
 
     # for saved_search in service.saved_searches:
     #     saved_search: SavedSearch
-        # 'FortiAuthentificator Web Access Night' alert
-    #     if saved_search.name not in ("FortiAuthentificator Web Access Night", ):
+    #     if saved_search.name not in ("Alert name here", ):
     #         continue
     #     print(saved_search.name)
     #     print('=' * len(saved_search.name))
